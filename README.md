@@ -2,6 +2,9 @@
 
 The website [sprunki-games.online](https://sprunki-games.online) serves as a hub for the Sprunki game series, offering a unique blend of music creation and interactive gameplay. Inspired by Incredibox, the Sprunki games feature innovative mods, custom visuals, and new soundtracks, providing players with fresh challenges and creative opportunities.
 
+# Website Screenshot
+![sprunki-games.online screenshot](https://images.sprunki-games.online/2025-05-27/ugouir9phZ4p3oNJ.webp)
+
 ### Key Features:
 
 *   **Music Creation:** Players can mix different sound loops and characters to craft unique beats and melodies.
