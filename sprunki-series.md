@@ -43,4 +43,4 @@ In summary, the Sprunki series offers a rich blend of musical creativity and adv
 
 You can add this sentence in English at the end of your article:
 
-Play Sprunki games online at [sprunki-games.online] https://sprunki-games.online and start creating your own unique beats today
+Play Sprunki games online at [sprunki-games.online](https://sprunki-games.online)  and start creating your own unique beats today
