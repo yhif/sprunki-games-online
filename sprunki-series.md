@@ -1,3 +1,5 @@
+# A Comprehensive Guide to the Music, Adventure, and Universe of the Quirky Sprunki Characters
+
 Sprunki is a multifaceted game series that blends music creation, rhythm gameplay, and adventurous exploration, featuring a unique cast of characters known as the Sprunki. Below is a comprehensive introduction to Sprunki and its related games.
 
 ## Overview of Sprunki Series
